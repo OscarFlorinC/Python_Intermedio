@@ -1,8 +1,8 @@
-# _**- Python Nivel Intermedio**_
+# _**- Python Nivel Básico**_
 
 <img src="https://images.datacamp.com/image/upload/v1657018082/Python_snake_c7d86ba58b.jpg" width="700" height="300">
 
-### **El propósito de este repositorio es enseñar a colaboradores, colegas y estudiantes, sobre uno de los lenguajes de programación mas utilizados en el  mundo de desarrollo**
+## **El propósito de este repositorio es enseñar a colaboradores, colegas y estudiantes, sobre uno de los lenguajes de programación mas utilizados en el  mundo de desarrollo**
 
 ## ***En este curso profundizaremos nuestro conocimiento en el lenguaje de programación de Python a un nivel intermedio, recordaremos la programación orientada a objetos (POO) y tendremos algunos ejemplos de nivel intermedio***
 
@@ -81,7 +81,7 @@
 |  | Descripción |
 |-----:|---------------|
 | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://entrenamiento-python-basico.readthedocs.io/es/3.7/leccion1/index.html#) | ***Documentación oficial*** |
-| [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](./Python_NB/Python_NB01.md) | ***Python Intermedio 01*** |
+| [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](./Python_NI/Python_NI01.md) | ***Python Intermedio 01*** |
 
 ## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
 ## ¡Muchas gracias, bienvenido!!!
