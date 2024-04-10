@@ -1,8 +1,11 @@
-# _**- Python Nivel Básico**_
+# _**- Python Nivel Intermedio**_
 
-<img src="./imagenes/1.-Pres.png" width="700" height="300">
+<img src="https://images.datacamp.com/image/upload/v1657018082/Python_snake_c7d86ba58b.jpg" width="700" height="300">
 
-## **El propósito de este repositorio es enseñar a colaboradores, colegas y estudiantes, sobre uno de los lenguajes de programación mas utilizados en el  mundo de desarrollo**
+### **El propósito de este repositorio es enseñar a colaboradores, colegas y estudiantes, sobre uno de los lenguajes de programación mas utilizados en el  mundo de desarrollo**
+
+## ***En este curso profundizaremos nuestro conocimiento en el lenguaje de programación de Python a un nivel intermedio, recordaremos la programación orientada a objetos (POO) y tendremos algunos ejemplos de nivel intermedio***
+
 
 # ¿Por qué elegir Python?
 ### Su curva de aprendizaje lo ha llevado a convertirse en una herramienta fundamental tanto para realizar aplicaciones web, como automatización de procesos y machine learning. Su gran versatilidad que permite posicionarlo como un elemento extremadamente útil en el sector tecnológico actual.
@@ -78,7 +81,7 @@
 |  | Descripción |
 |-----:|---------------|
 | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://entrenamiento-python-basico.readthedocs.io/es/3.7/leccion1/index.html#) | ***Documentación oficial*** |
-| [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](./Python_NB/Python_NB01.md) | ***Python Básico 01*** |
+| [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](./Python_NB/Python_NB01.md) | ***Python Intermedio 01*** |
 
 ## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
 ## ¡Muchas gracias, bienvenido!!!
