@@ -1,10 +1,10 @@
-# _**- Python Nivel Básico**_
+# _**- Python Nivel Intermedio**_
 
 <img src="https://images.datacamp.com/image/upload/v1657018082/Python_snake_c7d86ba58b.jpg" width="700" height="300">
 
 ## **El propósito de este repositorio es enseñar a colaboradores, colegas y estudiantes, sobre uno de los lenguajes de programación mas utilizados en el  mundo de desarrollo**
 
-## ***En este curso profundizaremos nuestro conocimiento en el lenguaje de programación de Python a un nivel intermedio, recordaremos la programación orientada a objetos (POO) y tendremos algunos ejemplos de nivel intermedio***
+# ***En este curso profundizaremos nuestro conocimiento en el lenguaje de programación de Python a un nivel intermedio, recordaremos los tipos de clases, la programación orientada a objetos (POO) y tendremos algunos ejemplos de nivel intermedio***
 
 
 # ¿Por qué elegir Python?
