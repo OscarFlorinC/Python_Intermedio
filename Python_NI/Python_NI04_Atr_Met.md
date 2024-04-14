@@ -23,6 +23,12 @@
 
 <img src="../imagenes/4.-AtrMetcd.png" width="500" height="600">
 
+### Salida:
+- Marca: Texca
+- Color: Negro
+- Almacenamiento: 256Gb
+- Hola, con quien quiere hablar?
+- Estoy escuchando a Fobia
 
 #
 |  | Descripción |
