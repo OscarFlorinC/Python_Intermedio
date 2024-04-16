@@ -1,32 +1,9 @@
-# ***Clases***
-### Las clases son un molde que sirve para crear un objeto. La clase es similar a un plano (blueprint) de una casa.
-
-### El cual cuanta con todos los detalles de las dimensiones, puertas, ventanas, pisos, etc. Estos planos nos ayudan a construir una casa.
-
-### Estructura de una clase
-    class <Nombre de la clase>():
-        pass
-
-##### Nota: ***pass*** es una operacion nula, es decir cuando se ejecuta, nada sucede.
-
-
-# ***Objetos***
-### Un objetos, es creado a partir de una clase. El proceso de creación del objeto se denomina instantiation.
-
-
-<img src="../imagenes/3.-ClsObjcd.png" width="500" height="450">
-
-### Salida:
-- <class 'type'>
-- <class '__main__.FabricaTelefonos'>
-- <class '__main__.FabricaTelefonos'>
-- <class 'NoneType'>
 
 #
 |  | Descripción |
 |-----:|---------------|
 | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://entrenamiento-python-basico.readthedocs.io/es/3.7/leccion1/index.html#) | ***Documentación oficial*** |
-| [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](Python_NI04_Atr_Met.md) | ***Ejemplo*** |
+| [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](../README.md) | ***Ejemplo*** |
 
 ## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
 ## ¡Muchas gracias, bienvenido!!!
