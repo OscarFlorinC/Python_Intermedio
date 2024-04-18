@@ -1,3 +1,15 @@
+# Método ***_ _ init _ _ ()***
+
+### El método _ _ _init_ _ _() es un método especial, el cual se ejecuta al momento de instanciar un objeto. El comportamiento de _ _ _init_ _ _() es muy similar a los «constructores» en otros lenguajes. Los argumentos que se utilizan en la definición de _ _ _init_ _ _() corresponden a los parámetros que se deben ingresar al instanciar un objeto.
+
+<img src="../imagenes/5.-Initcd.png" width="500" height="300">
+
+### Salida:
+
+- Estoy ejecutando el método Init.
+- Porque se creo un nuevo objeto
+- Texca
+- Negro
 
 #
 |  | Descripción |
