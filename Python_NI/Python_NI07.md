@@ -2,7 +2,16 @@
 
 ### Una clase puede derivarse de mas de una clase base enm python.En la herencia múltiple, las características de todas las clases base se heredan en la clase derivada.
 
-### Tambien podem os heredar de una clase derivada. Esto se llama, ***Herencia multinivel***
+### También podemos heredar de una clase derivada. Esto se llama, ***Herencia multinivel***
+
+<img src="../imagenes/7.-HereMulcd.png" width="400" height="350">
+
+### Salida:
+
+- Esta es la clase:  La clase A
+- Esta es la clase:  La clase B
+- Esta es la clase C con herencia de:  La clase A
+- Esta es la clase C con herencia de:  La clase B
 
 
 #
