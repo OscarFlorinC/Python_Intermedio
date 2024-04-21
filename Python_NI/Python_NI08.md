@@ -2,7 +2,7 @@
 
 ### Utilizando programación, orientado objetos, podemos restringir el acceso a métodos y variables. Esto evita que los datos se modifiquen directamente, lo que se denomina encapsulamiento o encapsulación.
 
-### Existen dos Maneras de crear atributos privados en Python: con un_al principio del nombre del mismo, o con dos guiones bajos.
+### Existen dos Maneras de crear atributos privados en Python: con un ***guion bajo ( _ )*** al principio del nombre del mismo, o con ***dos guiones bajos ( _ _ )***.
 
 ### La primera forma establece que los atributos son privados, pero sólo por convención (Internamente, no son realmente privados). La segunda forma hace que los atributos adquieran las propiedades que realmente los hacen privados.
 
