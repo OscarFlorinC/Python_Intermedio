@@ -3,6 +3,17 @@
 
 ### El polimorfismo es la característica de los objetos que permite implementar un método varias veces con diferente funcionalidad cada vez.
 
+
+<img src="../imagenes/9.-Polimcd.png" width="500" height="600">
+
+### Salida:
+
+- Yo hago Guau
+- Miau
+- Yo no hablo
+
+### Tenemos una clase padre ***Animal*** con un método definido pero no implementado, de la que heredan 2 animales. Cada animal implementa el método común de una manera diferente.
+
 #
 |  | Descripción |
 |-----:|---------------|
