@@ -1,4 +1,8 @@
 
+# ***Polimorfismo***
+
+### El polimorfismo es la característica de los objetos que permite implementar un método varias veces con diferente funcionalidad cada vez.
+
 #
 |  | Descripción |
 |-----:|---------------|
