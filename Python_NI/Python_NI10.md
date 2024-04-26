@@ -1,3 +1,20 @@
+# Ejemplo 1 de POO
+
+## Ejercicio 1
+### Realizar un programa donde se declare una clase llamada ***Estudiante***, que tenga como atributos el nombre y la nota del alumno. Definir los métodos para inicializar sus atributos, imprimirlos y mostrar un mensaje con el resultado de la nota y si ha aprobado o no.
+
+
+<img src="../imagenes/10.-PooEj1cd.png" width="600" height="450">
+
+### Salida:
+- Nombre: Juan 
+- Nota: 10
+- Has APROBADO
+- Nombre: Miguel 
+- Nota: 6
+- Has REPROBADO
+
+
 #
 |  | Descripción |
 |-----:|---------------|
