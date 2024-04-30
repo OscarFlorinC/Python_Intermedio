@@ -1,7 +1,14 @@
 # Ejercicio 5
 ### Crear un programa con tres clases Universidad, con atributos nombre (Donde se almacena el nombre de la Universidad). Otra llamada Carrera, con los atributos especialidad (En donde me guarda la especialidad de un estudiante). Una ultima llamada Estudiante, que tenga como atributos su nombre y edad. El programa debe imprimir la especialidad, edad, nombre y universidad de dicho estudiante con un objeto llamado persona.
 
+<img src="../imagenes/14.-PooEjcd.png" width="500" height="500">
 
+### Salida:
+
+- Mi nombre es Juan López, 
+- tengo 20 años, 
+- mi especialidad es Ing. Comunicaciones y Electrónica, 
+- estudio en ESIME
 
 #
 |  | Descripción |
