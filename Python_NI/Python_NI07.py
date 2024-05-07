@@ -17,4 +17,4 @@ print(f"Esta es la clase: ", b.segunda())
 
 c = C()
 print(f"Esta es la clase C con herencia de: ", c.primera())
-print(f"Esta es la clase C con herencia de: ",c.segunda())
+print(f"Esta es la clase C con herencia de: ", c.segunda())
