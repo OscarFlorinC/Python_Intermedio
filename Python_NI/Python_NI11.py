@@ -13,14 +13,14 @@ class Calculadora():
 
     def multiplicacion(self):
         self.multiplicacion = self.num1 * self.num2
-        return 'La multiplicación da como resultado: ', self.multiplicacion
+        print('La multiplicación da como resultado: ', self.multiplicacion)
 
     def division(self):
         self.division = self.num1 / self.num2
-        return 'La división da como resultado: ', self.division
+        print('La división da como resultado: ', self.division)
 
 calcular = Calculadora()
 calcular.suma()
 calcular.resta()
-print(calcular.multiplicacion())
-print(calcular.division())
+calcular.multiplicacion()
+calcular.division()
