@@ -7,7 +7,7 @@
     class <Nombre de la clase>():
         pass
 
-##### Nota: ***pass*** es una operacion nula, es decir cuando se ejecuta, nada sucede.
+##### Nota: ***pass*** es una operación nula, es decir cuando se ejecuta, nada sucede.
 
 
 # ***Objetos***
